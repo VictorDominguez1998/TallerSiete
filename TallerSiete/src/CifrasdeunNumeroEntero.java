@@ -6,13 +6,6 @@ public class CifrasdeunNumeroEntero {
 	static int  numTem =0;
 	static Scanner dig = new Scanner(System.in);
 	
-	public static void main(String args[]){
-	
-			
-		menu();
-		
-
-	}
 	
 	
 	public static void menu() {

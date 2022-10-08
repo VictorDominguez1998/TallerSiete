@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class TallerSiete {
 
 
-	public static void main(String args[]){
+	public void bisiesto() {
 		Scanner dig = new Scanner(System.in);
 		int anio = 0;
 		
@@ -16,7 +16,11 @@ public class TallerSiete {
 		
 	    }
         }
+		
 	}
+	
+	
+	
 }
 	
 	
